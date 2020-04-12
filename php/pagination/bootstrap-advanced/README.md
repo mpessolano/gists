@@ -11,4 +11,4 @@ Ejemplo basado en el código y tutorial [PHP-pagination-class-with-Bootstrap-4](
 
 En el tutorial se usa la extensión **MySQLi** para establecer la conexión a la base de datos. 
 
-Se agregó el archivo `index_pdo.php` para realizar la conexión utilizando la extensión **PDO**.
+Se agregó el archivo `pagination_pdo.php` para realizar la conexión utilizando la extensión **PDO**.
