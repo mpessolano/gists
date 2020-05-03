@@ -2,11 +2,15 @@
 
 Learn SQL | [Codeacademy](https://www.codecademy.com/courses/learn-sql)
 
+## Queries
+
 ### SELECT
 
 ```sql
 SELECT * FROM celebs;
 ```
+
+## Manipulation
 
 ### CREATE
 
