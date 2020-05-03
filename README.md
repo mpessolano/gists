@@ -1,3 +1,3 @@
-# Snippets de código
+# Snippets
 
 Fragmentos de código útiles de desarrollo web en PHP
