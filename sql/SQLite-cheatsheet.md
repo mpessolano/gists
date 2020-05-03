@@ -8,6 +8,8 @@ Learn SQL | [Codeacademy](https://www.codecademy.com/courses/learn-sql)
 
 ```sql
 SELECT * FROM celebs;
+
+SELECT name FROM celebs;
 ```
 
 ---
