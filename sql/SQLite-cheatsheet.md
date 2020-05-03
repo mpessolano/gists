@@ -4,15 +4,17 @@ Learn SQL | [Codeacademy](https://www.codecademy.com/courses/learn-sql)
 
 ## Queries
 
-### SELECT
+- ### SELECT
 
 ```sql
 SELECT * FROM celebs;
 ```
 
+---
+
 ## Manipulation
 
-### CREATE
+- ### CREATE
 
 ```sql
 CREATE TABLE celebs (
