@@ -23,3 +23,10 @@ CREATE TABLE celebs (
   age INTEGER
 );
 ```
+
+- ### INSERT
+
+```sql
+ INSERT INTO celebs (id, name, age)
+ VALUES (1, 'Justin Bieber', 22);
+```
