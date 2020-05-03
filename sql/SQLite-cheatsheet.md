@@ -13,7 +13,7 @@ SELECT * FROM celebs;
 ```sql
 CREATE TABLE celebs (
   id INTEGER,
-  name TEXT
+  name TEXT,
   age INTEGER
 );
 ```
